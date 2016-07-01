@@ -1,11 +1,7 @@
 # terraform-beta 
-## EMR
-For release terraform EMR beta binary
+------------------
 
-## EMR features
-- Master, Core cluster create, resize, destroy
-- Task instance groups create, resize
-- Two resource types: aws_emr, aws_emr_task_group
+For release terraform EMR beta binary
 
 ## Download
 * Mac OSX
@@ -13,6 +9,12 @@ https://github.com/IAops/terraform-beta/raw/master/darwin_amd64.zip
 
 * Linux
 https://github.com/IAops/terraform-beta/raw/master/linux_amd64.zip
+
+## EMR features
+- Master, Core cluster create, resize, destroy
+- Task instance groups create, resize
+- Two resource types: aws_emr, aws_emr_task_group
+
 
 ## Sample specs. for testing
 
