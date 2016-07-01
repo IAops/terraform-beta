@@ -1,4 +1,5 @@
-# terraform-beta EMR
+# terraform-beta 
+## EMR
 For release terraform EMR beta binary
 
 ## Sample specs. for testing
