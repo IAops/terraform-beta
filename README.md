@@ -7,6 +7,13 @@ For release terraform EMR beta binary
 - Task instance groups create, resize
 - Two resource types: aws_emr, aws_emr_task_group
 
+## Download
+* Mac OSX
+https://github.com/IAops/terraform-beta/raw/master/darwin_amd64.zip
+
+* Linux
+https://github.com/IAops/terraform-beta/raw/master/linux_amd64.zip
+
 ## Sample specs. for testing
 
 - emr-cluster.tf
