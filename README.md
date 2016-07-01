@@ -2,6 +2,11 @@
 ## EMR
 For release terraform EMR beta binary
 
+## EMR features
+- Master, Core cluster create, resize, destroy
+- Task instance groups create, resize
+- Two resource types: aws_emr, aws_emr_task_group
+
 ## Sample specs. for testing
 
 - emr-cluster.tf
