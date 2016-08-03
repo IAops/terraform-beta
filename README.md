@@ -32,7 +32,6 @@ resource "aws_emr" "tf-test-cluster" {
     additional_master_security_groups = "sg-xxxx"
   }
 
-  use_default_roles = true
   log_uri           = "s3://testbucket/emr-spark-test/"
 
   master_instance_type = "m3.xlarge"
