@@ -5,8 +5,6 @@
 Please refer to the official binary and docs.
 
 
-For release terraform EMR beta binary
-
 ## Download
 * Mac OSX
 https://github.com/IAops/terraform-beta/raw/master/darwin_amd64.zip
