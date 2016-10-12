@@ -1,6 +1,10 @@
 # terraform-beta 
 ------------------
 
+@This one deprecated, all the code was merged with Terraform main release,
+Please refer to the official binary and docs.
+
+
 For release terraform EMR beta binary
 
 ## Download
